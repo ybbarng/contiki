@@ -43,7 +43,6 @@
 #include "dev/spi.h"
 #include "dev/cc2420.h"
 #include "dev/cc2420_const.h"
-#include "glossy.h"
 
 /*---------------------------------------------------------------------------*/
 #define AUTOACK (1 << 4)

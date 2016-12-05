@@ -40,7 +40,6 @@
 #include "sys/clock.h"
 #include "sys/etimer.h"
 #include "rtimer-arch.h"
-#include "glossy.h"
 
 #define INTERVAL (RTIMER_ARCH_SECOND / CLOCK_SECOND)
 
